@@ -3,6 +3,8 @@
 # 🎯 Vision-Zero
 ### Scalable VLM Self-Improvement via Strategic Gamified Self-Play
 
+> **🎉 Accepted to ICLR 2026!**
+
 [![arXiv](https://img.shields.io/badge/arXiv-2509.25541-b31b1b.svg)](https://arxiv.org/abs/2509.25541)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Models](https://img.shields.io/badge/🤗-Models-yellow)](https://huggingface.co/Qinsi1)
