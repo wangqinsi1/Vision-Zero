@@ -17,6 +17,11 @@ generate the reward*
 
 </div>
 
+> ### 🎯 This repository also hosts **Vision-Zero** (ICLR 2026)
+> **[Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://github.com/wangqinsi1/RLSVR)** —
+> the vision-language counterpart, where the same self-play idea runs on image pairs.
+> **→ Code on the [`main`](https://github.com/wangqinsi1/RLSVR) branch**
+
 ## 📋 Table of Contents
 
 - [🎯 Overview](#-overview)
@@ -172,8 +177,8 @@ Requires Python ≥ 3.10, CUDA 12.x, and a single node of 8 GPUs with ≥ 80 GB 
 use tensor parallel 8).
 
 ```bash
-git clone https://github.com/wangqinsi1/SpyRL-Self-PlaY-Reinforcement-Learning.git
-cd SpyRL-Self-PlaY-Reinforcement-Learning
+git clone -b SpyRL https://github.com/wangqinsi1/RLSVR.git
+cd RLSVR
 
 conda create -n spyrl python=3.10 -y && conda activate spyrl
 bash setup.sh                       # verl core + vLLM + SpyRL deps, then a smoke check
