@@ -12,8 +12,9 @@
 
 ![Overview](assets/spyrl-framework.png)
 
-*Self-supervised learning, but for RLVR — transform an open-ended task into a game whose rules
-generate the reward*
+*Self-supervised learning, but for RLVR. We transform an open-ended task into a multi-agent game
+whose rules automatically generate fully verifiable rewards, enabling scalable LLM self-improvement
+beyond math and code.*
 
 </div>
 
