@@ -19,9 +19,9 @@ beyond math and code.*
 </div>
 
 > ### 🎯 This repository also hosts **Vision-Zero** (ICLR 2026)
-> **[Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://github.com/wangqinsi1/RLSVR)** —
+> **[Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://github.com/wangqinsi1/RLSVR/tree/vision-zero)** —
 > the vision-language counterpart, where the same self-play idea runs on image pairs.
-> **→ Code on the [`main`](https://github.com/wangqinsi1/RLSVR) branch**
+> **→ Code on the [`vision-zero`](https://github.com/wangqinsi1/RLSVR/tree/vision-zero) branch**
 
 ## 📋 Table of Contents
 
