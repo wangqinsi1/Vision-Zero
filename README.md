@@ -402,11 +402,11 @@ A/B evaluations aggregate results from swapped generation orders to cancel posit
 If you find SpyRL useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{wang2026spyrl,
-    title     = {From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement},
-    author    = {Qinsi Wang and Jing Shi and Huazheng Wang and Kun Wan and Yiran Wu and Bo Liu and Qingyun Wu and Hai Helen Li and Yiran Chen and Handong Zhao and Wentian Zhao},
-    booktitle = {Conference on Language Modeling (COLM)},
-    year      = {2026}
+@article{wang2026rlvr,
+  title={From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement},
+  author={Wang, Qinsi and Shi, Jing and Wang, Huazheng and Wan, Kun and Wu, Yiran and Liu, Bo and Wu, Qingyun and Li, Hai Helen and Chen, Yiran and Zhao, Handong and others},
+  journal={arXiv preprint arXiv:2607.23802},
+  year={2026}
 }
 ```
 
