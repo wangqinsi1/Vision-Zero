@@ -5,7 +5,7 @@
 
 > **🎉 Accepted to COLM 2026!**
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.23802-b31b1b.svg)](https://arxiv.org/abs/2607.23802)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Models](https://img.shields.io/badge/🤗-Models-yellow)](https://huggingface.co/SpyRL)
 [![Built on verl](https://img.shields.io/badge/built%20on-verl-green)](https://github.com/volcengine/verl)
